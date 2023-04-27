@@ -11,27 +11,33 @@ let sounds = [
 ]
 
 
-// buttons.forEach((button, index) => {
-//     button.addEventListener("click", (e) => {
-//         sounds[index].play().then(
-//             e.target.style.color = "red"
-//         )
-//         e.target.style.color = "white"
-//     })
-// })
-
-
 buttons.forEach((button, index) => {
-    button.addEventListener("click", function () {
-        sounds[index].play().then(
-            this.style.color = "red"
-        )
+    button.addEventListener("click", function (e) {
+        makeSound(e.target.textContent)
+        e.target.classList.add("pressed")
+
+        setTimeout(() => {
+            e.target.classList.remove("pressed")
+        },200)
     })
 })
 
 
 document.addEventListener("keydown", (e) => {
-    switch (e.key) {
+    makeSound(e.key)
+    var button = document.querySelector(`.${e.key}`)
+    button.classList.add("pressed")
+
+    setTimeout(() => {
+        button.classList.remove("pressed")
+    },200)
+
+})
+
+
+function makeSound(key) {
+
+    switch (key) {
         case "w":
             sounds[0].play()
         case "a":
@@ -42,11 +48,16 @@ document.addEventListener("keydown", (e) => {
             sounds[3].play()
         case "j":
             sounds[4].play()
-        case "j":
+        case "k":
             sounds[5].play()
         case "l":
             sounds[6].play()
         default:
             break
     }
-})
+
+}
+
+function buttonAnimation(key){
+    document
+}

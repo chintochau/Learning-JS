@@ -54,6 +54,6 @@ Live Demo: Link to the live demo of the project.
 
 Things I Learned: List some of the things you learned while working on this project.
 
-### Conclusion
+## Conclusion
 
 In this repository, I've shared some of the small demo projects I created while learning JavaScript. Each project helped me to solidify my understanding of different concepts, and I'm excited to continue building and learning more.

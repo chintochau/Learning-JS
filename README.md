@@ -12,7 +12,7 @@ Tech Stack: HTML, CSS, JavaScript
 
 Live Demo: https://6449f7f28303e03c1fbcf64b--quiet-haupia-a74d15.netlify.app
 
-Things I Learned: Learn the basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
+Things I Learned: Basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
 
 
 ## Project 2: GPT article sumarrizer
@@ -24,6 +24,16 @@ Tech Stack: React, Vite, Tailwind, RapidApi
 Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
 Things I Learned: using rapid API, .env
+
+## Project 2: Drum Kit
+
+Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
+
+Tech Stack: HTML, CSS, JavaScript
+
+Live Demo: 
+
+Things I Learned: Basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
 
 
 ## Conclusion

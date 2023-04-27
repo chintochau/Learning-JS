@@ -33,7 +33,7 @@ Tech Stack: HTML, CSS, JavaScript
 
 Live Demo: 
 
-Things I Learned: Basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
+Things I Learned: js event listener, innerhtml manipulation
 
 
 ## Conclusion

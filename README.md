@@ -4,7 +4,7 @@ This repository contains a collection of small demo projects I created while lea
 
 Last Updated: April 27 2023
 
-## Project 1: Dice challenge
+## Project 1: ramdom dice
 
 Description: whenever refresh, generate random dice for player1 and player2, the larger number wins.
 
@@ -15,45 +15,16 @@ Live Demo: https://6449f7f28303e03c1fbcf64b--quiet-haupia-a74d15.netlify.app
 Things I Learned: Learn the basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
 
 
-## PProject 2: Project Name
+## Project 2: GPT article sumarrizer
 
-Description: A brief description of the project and what it does.
+Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
 
-Tech Stack: List the technologies used in the project (e.g. HTML, CSS, JavaScript, etc.).
+Tech Stack: React, Vite, Tailwind, RapidApi
 
-Live Demo: Link to the live demo of the project.
+Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
-Things I Learned: List some of the things you learned while working on this project.
+Things I Learned: using rapid API, .env
 
-## PProject 3: Project Name
-
-Description: A brief description of the project and what it does.
-
-Tech Stack: List the technologies used in the project (e.g. HTML, CSS, JavaScript, etc.).
-
-Live Demo: Link to the live demo of the project.
-
-Things I Learned: List some of the things you learned while working on this project.
-
-## PProject 4: Project Name
-
-Description: A brief description of the project and what it does.
-
-Tech Stack: List the technologies used in the project (e.g. HTML, CSS, JavaScript, etc.).
-
-Live Demo: Link to the live demo of the project.
-
-Things I Learned: List some of the things you learned while working on this project.
-
-## Project 5: Project Name
-
-Description: A brief description of the project and what it does.
-
-Tech Stack: List the technologies used in the project (e.g. HTML, CSS, JavaScript, etc.).
-
-Live Demo: Link to the live demo of the project.
-
-Things I Learned: List some of the things you learned while working on this project.
 
 ## Conclusion
 

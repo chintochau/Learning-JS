@@ -4,7 +4,7 @@ This repository contains a collection of small demo projects I created while lea
 
 Last Updated: April 27 2023
 
-## Project 1: Project Name
+### Project 1: Project Name
 
 Description: A brief description of the project and what it does.
 
@@ -14,7 +14,7 @@ Live Demo: Link to the live demo of the project.
 
 Things I Learned: List some of the things you learned while working on this project.
 
-## PProject 2: Project Name
+### PProject 2: Project Name
 
 Description: A brief description of the project and what it does.
 
@@ -24,7 +24,7 @@ Live Demo: Link to the live demo of the project.
 
 Things I Learned: List some of the things you learned while working on this project.
 
-## PProject 3: Project Name
+### PProject 3: Project Name
 
 Description: A brief description of the project and what it does.
 
@@ -34,7 +34,7 @@ Live Demo: Link to the live demo of the project.
 
 Things I Learned: List some of the things you learned while working on this project.
 
-## PProject 4: Project Name
+### PProject 4: Project Name
 
 Description: A brief description of the project and what it does.
 
@@ -44,7 +44,7 @@ Live Demo: Link to the live demo of the project.
 
 Things I Learned: List some of the things you learned while working on this project.
 
-Project 5: Project Name
+### Project 5: Project Name
 
 Description: A brief description of the project and what it does.
 
@@ -54,6 +54,6 @@ Live Demo: Link to the live demo of the project.
 
 Things I Learned: List some of the things you learned while working on this project.
 
-Conclusion
+### Conclusion
 
 In this repository, I've shared some of the small demo projects I created while learning JavaScript. Each project helped me to solidify my understanding of different concepts, and I'm excited to continue building and learning more.

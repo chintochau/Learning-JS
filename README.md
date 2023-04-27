@@ -4,15 +4,16 @@ This repository contains a collection of small demo projects I created while lea
 
 Last Updated: April 27 2023
 
-## Project 1: Project Name
+## Project 1: Dice challenge
 
-Description: A brief description of the project and what it does.
+Description: whenever refresh, generate random dice for player1 and player2, the larger number wins.
 
-Tech Stack: List the technologies used in the project (e.g. HTML, CSS, JavaScript, etc.).
+Tech Stack: HTML, CSS, JavaScript
 
-Live Demo: Link to the live demo of the project.
+Live Demo: https://6449f7f28303e03c1fbcf64b--quiet-haupia-a74d15.netlify.app
 
-Things I Learned: List some of the things you learned while working on this project.
+Things I Learned: Learn the basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
+
 
 ## PProject 2: Project Name
 

@@ -4,7 +4,7 @@ This repository contains a collection of small demo projects I created while lea
 
 Last Updated: April 27 2023
 
-## Project 1: ramdom dice (boot camp project)
+## Project 1: ramdom dice (course project)
 
 Description: whenever refresh, generate random dice for player1 and player2, the larger number wins.
 
@@ -25,7 +25,7 @@ Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
 Things I Learned: using rapid API, .env
 
-## Project 2: Drum Kit (boot camp project)
+## Project 2: Drum Kit (course project)
 
 Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
 

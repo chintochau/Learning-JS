@@ -16,7 +16,20 @@ Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
 Things I Learned: using rapid API, .env
 
-## Project 2: ramdom dice (course project)
+
+## Learning Project 3: BMI calculator
+
+Description: learn to use express, node.js to perform backend calculation
+
+Tech Stack: node.js, express
+
+Live Demo: -
+
+Things I Learned: learn how to route and send response using express with node.js
+
+
+
+## Learning Project 2: ramdom dice 
 
 Description: whenever refresh, generate random dice for player1 and player2, the larger number wins.
 
@@ -27,7 +40,7 @@ Live Demo: https://6449f7f28303e03c1fbcf64b--quiet-haupia-a74d15.netlify.app
 Things I Learned: Basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
 
 
-## Project 3: Drum Kit (course project)
+## Learning Project 1: Drum Kit 
 
 Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
 

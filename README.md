@@ -4,7 +4,19 @@ This repository contains a collection of small demo projects I created while lea
 
 Last Updated: April 27 2023
 
-## Project 1: ramdom dice (course project)
+
+
+## Project 1: GPT article sumarrizer
+
+Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
+
+Tech Stack: React, Vite, Tailwind, RapidApi
+
+Live Demo: https://article-summarizer-jasonchauapp.netlify.app
+
+Things I Learned: using rapid API, .env
+
+## Project 2: ramdom dice (course project)
 
 Description: whenever refresh, generate random dice for player1 and player2, the larger number wins.
 
@@ -15,17 +27,7 @@ Live Demo: https://6449f7f28303e03c1fbcf64b--quiet-haupia-a74d15.netlify.app
 Things I Learned: Basic of using JS to selecte elements on html and manupulate the attributes, text, innerhtml and such.
 
 
-## Project 2: GPT article sumarrizer
-
-Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
-
-Tech Stack: React, Vite, Tailwind, RapidApi
-
-Live Demo: https://article-summarizer-jasonchauapp.netlify.app
-
-Things I Learned: using rapid API, .env
-
-## Project 2: Drum Kit (course project)
+## Project 3: Drum Kit (course project)
 
 Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
 

@@ -6,7 +6,7 @@ Last Updated: April 27 2023
 
 
 
-## Project 1: GPT article sumarrizer
+## Project 4: GPT article sumarrizer
 
 Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
 
@@ -15,6 +15,17 @@ Tech Stack: React, Vite, Tailwind, RapidApi
 Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
 Things I Learned: using rapid API, .env
+
+## Learning Project 4: Open Weather API using node.js
+
+Description: learn to use node.js, using openweather api, takes in user input and give weather data.
+
+Tech Stack: node.js, express
+
+Live Demo: -
+
+Things I Learned: 
+
 
 
 ## Learning Project 3: BMI calculator

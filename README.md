@@ -6,7 +6,8 @@ Last Updated: April 27 2023
 
 
 
-## Project 4: GPT article sumarrizer
+
+## Project 1: GPT article sumarrizer
 
 Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
 
@@ -15,6 +16,27 @@ Tech Stack: React, Vite, Tailwind, RapidApi
 Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
 Things I Learned: using rapid API, .env
+
+## Learning Project 5: Keeper app
+
+Description: a note app that saive notes with a title and details into a bullet board alike app.
+
+Tech Stack: react, material UI
+
+Live Demo: https://64585118627cb647d9b34dbb--vocal-scone-cc64c0.netlify.app
+
+Things I Learned: React, material UI, useState, 
+
+
+## Learning Project 5: Newsletter-Signup
+
+Description: make a signup page that use node.js and express to send post request, and display the response.
+
+Tech Stack: node.js, express, bootstrap
+
+Live Demo: -
+
+Things I Learned: 
 
 ## Learning Project 4: Open Weather API using node.js
 

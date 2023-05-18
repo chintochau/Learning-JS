@@ -17,6 +17,16 @@ Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
 Things I Learned: using rapid API, .env
 
+
+## Learning Project 6: Hoobank app landing page
+Description: an app landing page that includes sections: Hero, testinimonals, feedbacks, header, footer, etc using React and Tailwindcss
+
+Tech Stack: React and Tailwindcss
+
+Live Demo: https://6466760a89ec47496d5b6790--delightful-kringle-27c2c7.netlify.app
+
+Things I Learned: React and tailwind css
+
 ## Learning Project 5: Keeper app
 
 Description: a note app that saive notes with a title and details into a bullet board alike app.

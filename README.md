@@ -21,9 +21,11 @@ Things I Learned: using rapid API, .env
 ## Simple Project 2: 3D T shirt model with Open AI API
 Description: an 3D T shirt web page that can use uploaded image as a logo or pattern. optionally use OpenAI api to generate logo or patterns.
 
+host server side web service on render.com
+
 Tech Stack: ReactJS, ThreeJS, OpenAI API
 
-Live Demo: 
+Live Demo: https://6476634a350b57171988feed--hilarious-kitsune-b8617a.netlify.app
 
 
 ## Learning Project 6: Hoobank app landing page

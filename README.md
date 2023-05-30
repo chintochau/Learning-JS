@@ -7,7 +7,7 @@ Last Updated: April 27 2023
 
 
 
-## Project 1: GPT article sumarrizer
+## Simple Project 1: GPT article sumarrizer
 
 Description: a summarizer that reads a webpage, and use GPT-4 to generate the webpage summary.
 
@@ -16,6 +16,14 @@ Tech Stack: React, Vite, Tailwind, RapidApi
 Live Demo: https://article-summarizer-jasonchauapp.netlify.app
 
 Things I Learned: using rapid API, .env
+
+
+## Simple Project 2: 3D T shirt model with Open AI API
+Description: an 3D T shirt web page that can use uploaded image as a logo or pattern. optionally use OpenAI api to generate logo or patterns.
+
+Tech Stack: ReactJS, ThreeJS, OpenAI API
+
+Live Demo: 
 
 
 ## Learning Project 6: Hoobank app landing page
